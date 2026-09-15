@@ -8,7 +8,7 @@ Skills give an agent instructions for tasks such as reviewing SQL queries or tes
 
 1. The agent inspects the repository's stack, versions, recurring tasks, tests, and existing skills and instructions.
 2. It reads the relevant catalog topics and related skills from each source, then searches further if it finds gaps.
-3. You receive a proposal with exact skill names and sources, the work each addresses, the comparison with overlapping candidates, and the files or configuration that would change.
+3. You receive a proposal with exact skill names and sources, why your project needs them, and the files or configuration that would change.
 4. After you approve the additions, the agent installs them in the target project by default.
 5. It checks that it can access the installed skills and reports the changes.
 
