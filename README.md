@@ -16,6 +16,12 @@ For a PostgreSQL project, the agent might propose a query optimization skill to 
 
 You can rerun setup as the project changes. The agent compares proposed additions or updates with existing skills and preserves your customizations.
 
+## Installation
+
+```sh
+npx skills add https://github.com/miinhho/setup-project-skills --skill setup-project-skills -g
+```
+
 ## Browse the catalog
 
 Start with the [skill map](skills/setup-project-skills/references/skill-map.md). It links to topic files where each entry gives a skill's name, installation source, and use conditions. The agent opens the topics that match your project.
