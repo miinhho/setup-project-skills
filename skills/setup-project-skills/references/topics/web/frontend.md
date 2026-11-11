@@ -20,4 +20,4 @@
 | `material-ui-nextjs` | `mui/material-ui` | MUI integrates with Next.js App or Pages Router, SSR, fonts, or Emotion cache. |
 | `material-ui-tailwind` | `mui/material-ui` | MUI and Tailwind CSS share cascade layers, tokens, utilities, or portal styling. |
 
-For React or Next.js, open their separate field files. For CSS, Tailwind CSS, or UnoCSS, open [CSS and styling](css.md). For embedded WebView pages, open [WebView](webview.md). For Jotai or Zustand, open [client state](state.md). For Vite, open [build tooling](../infrastructure/build-tooling.md). For TanStack libraries, use [Intent](tanstack.md).
+For React or Next.js, open their separate field files. For native HTML/DOM, browser APIs, or browser compatibility, open [Web platform](platform.md). For CSS, Tailwind CSS, or UnoCSS, open [CSS and styling](css.md). For embedded WebView pages, open [WebView](webview.md). For Jotai or Zustand, open [client state](state.md). For Vite, open [build tooling](../infrastructure/build-tooling.md). For TanStack libraries, use [Intent](tanstack.md).
