@@ -28,6 +28,7 @@ Open only the fields matching the target repository's stack or recurring work. T
 
 | Field               | Open when                                                                   | Map                                 |
 | ------------------- | --------------------------------------------------------------------------- | ----------------------------------- |
+| Web platform        | Native HTML/DOM, browser APIs, or browser compatibility work recurs          | [Web platform](topics/web/platform.md) |
 | Frontend frameworks | Vue, Nuxt, Angular, Svelte, Astro, or component libraries recur             | [Frontend](topics/web/frontend.md)  |
 | React               | React composition, hooks, or performance recur                              | [React](topics/web/react.md)        |
 | Next.js             | Next.js routing, caching, or runtime work recurs                            | [Next.js](topics/web/nextjs.md)     |

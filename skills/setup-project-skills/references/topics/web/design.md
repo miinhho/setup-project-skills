@@ -13,4 +13,4 @@
 | `frontend-a11y` | `affaan-m/ECC` | React or Next.js components need repeated accessibility implementation. |
 | `material-ui-review` | `mui/material-ui` | MUI component usage needs independent review. |
 
-For Expo motion, open [mobile](../mobile/mobile.md).
+For native UI components and browser compatibility, open [Web platform](platform.md). For Expo motion, open [mobile](../mobile/mobile.md).

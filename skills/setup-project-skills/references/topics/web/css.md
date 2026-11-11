@@ -7,4 +7,4 @@
 | `unocss` | `antfu/skills` | The project uses UnoCSS presets, shortcuts, or rules. |
 | `vanilla-extract` | `ceski23/skills` | React and Vite styling uses typed static CSS, themes, recipes, runtime variables, or Sprinkles. |
 
-For framework component styling, open [frontend](frontend.md). For design and accessibility work, open [design](design.md).
+For searchable guidance across HTML, CSS, and browser APIs, compare [Web platform](platform.md). For framework component styling, open [frontend](frontend.md). For design and accessibility work, open [design](design.md).

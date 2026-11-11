@@ -30,7 +30,7 @@ Start with the [skill map](skills/setup-project-skills/references/skill-map.md).
 | Area                 | Examples                                                                  |
 | -------------------- | ------------------------------------------------------------------------- |
 | Languages            | Python, TypeScript, Go, Rust, Java, Kotlin, Swift, C and C++              |
-| Web and services     | React, Next.js, CSS, Spring Boot 4, .NET, authentication and APIs         |
+| Web and services     | Web platform, React, Next.js, CSS, Spring Boot 4, .NET, authentication and APIs |
 | AI                   | Model training and evaluation, RAG, local and managed serving             |
 | Databases            | PostgreSQL, MySQL, Redis, MongoDB, analytical, vector and graph databases |
 | Data engineering     | DataFrames, Spark, Airflow, Dagster and streaming pipelines               |
